@@ -1,2 +1,2 @@
 # Earlynodes
-This is the early stagee of my nodes on github.
+This is the early stage of my nodes on github.
